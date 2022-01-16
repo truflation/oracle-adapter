@@ -22,7 +22,7 @@ To use the tool, please follow Chainlink’s [documentation](https://docs.chain.
  
 All contracts on Chainlink must be funded using local utility token LINK.
 
-## Current Status
+## Network Details
 
 Blockchain: Chainlink
 *Oracle Address:* `0x17dED59fCd940F0a40462D52AAcD11493C6D8073`  
