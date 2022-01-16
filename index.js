@@ -20,7 +20,7 @@ app.listen(port, () => console.log(`Listening on port ${port}!`))
 function createRequest (input, callback) {
   const validator = new Validator(callback, input)
   const jobRunID = validator.validated.id
-  const url = 'https://truflation-oracle.hydrogenx.tk/current/'
+  const url = 'https://api.truflation.com/current/'
 
   Requester.request(
     { url },
