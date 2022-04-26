@@ -46,7 +46,7 @@ All contracts on Chainlink must be funded using local utility token LINK.
 - Job ID(Truflation): b04c2a85143c43089c1befe7c41dea93
 
 **Important**
-**The LINK provided by the BNB Chain Bridge is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/).**
+**The LINK provided by the [BNB Chain Bridge](https://www.bnbchain.world/en/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.171353062.756683581.1650345653-1161789045.1649048909).**
 
 ### BNB Smart Chain Testnet (Chain ID: 97)
 
