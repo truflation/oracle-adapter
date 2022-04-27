@@ -40,7 +40,7 @@ All contracts on Chainlink must be funded using local utility token LINK.
 
 ### BNB Chain Mainnet (Chain ID: 56)
 
-**Important**
+**Important**\
 **The LINK provided by the [BNB Chain Bridge](https://www.bnbchain.world/en/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.171353062.756683581.1650345653-1161789045.1649048909). ([Reference](https://docs.chain.link/docs/link-token-contracts/#bnb-chain))**
 
 - Payment amount: 0.01 LINK
@@ -57,7 +57,7 @@ All contracts on Chainlink must be funded using local utility token LINK.
 
 ### Polygon Mainnet (Chain ID: 137)
 
-**Important**
+**Important**\
 **The LINK provided by the [Polygon (Matic) Bridge](https://wallet.polygon.technology/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on Polygon (Matic) using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.130074441.756683581.1650345653-1161789045.1649048909). ([Reference](https://docs.chain.link/docs/link-token-contracts/#polygon-matic))**
 
 - Payment amount: 0.01 LINK
