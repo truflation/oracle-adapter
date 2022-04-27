@@ -38,7 +38,7 @@ All contracts on Chainlink must be funded using local utility token LINK.
 - LINK token address: 0x01BE23585060835E02B77ef475b0Cc51aA1e0709
 - Job ID(Truflation): b04c2a85143c43089c1befe7c41dea93
 
-### BNB Smart Chain Mainnet (Chain ID: 56)
+### BNB Chain Mainnet (Chain ID: 56)
 
 - Payment amount: 0.01 LINK
 - Oracle address: 0x02a1BE5682f4Fcc941746e95f095c356A7f4D480
@@ -48,7 +48,7 @@ All contracts on Chainlink must be funded using local utility token LINK.
 **Important**
 **The LINK provided by the [BNB Chain Bridge](https://www.bnbchain.world/en/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.171353062.756683581.1650345653-1161789045.1649048909).**
 
-### BNB Smart Chain Testnet (Chain ID: 97)
+### BNB Chain Testnet (Chain ID: 97)
 
 - Payment amount: 0.01 LINK
 - Oracle address: 0x17dED59fCd940F0a40462D52AAcD11493C6D8073
