@@ -40,13 +40,13 @@ All contracts on Chainlink must be funded using local utility token LINK.
 
 ### BNB Chain Mainnet (Chain ID: 56)
 
+**Important**
+**The LINK provided by the [BNB Chain Bridge](https://www.bnbchain.world/en/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.171353062.756683581.1650345653-1161789045.1649048909). ([Reference](https://docs.chain.link/docs/link-token-contracts/#bnb-chain))**
+
 - Payment amount: 0.01 LINK
 - Oracle address: 0x02a1BE5682f4Fcc941746e95f095c356A7f4D480
 - LINK token address: 0x404460c6a5ede2d891e8297795264fde62adbb75
 - Job ID(Truflation): b04c2a85143c43089c1befe7c41dea93
-
-**Important**
-**The LINK provided by the [BNB Chain Bridge](https://www.bnbchain.world/en/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on BNB Chain using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.171353062.756683581.1650345653-1161789045.1649048909).**
 
 ### BNB Chain Testnet (Chain ID: 97)
 
@@ -57,13 +57,13 @@ All contracts on Chainlink must be funded using local utility token LINK.
 
 ### Polygon Mainnet (Chain ID: 137)
 
+**Important**
+**The LINK provided by the [Polygon (Matic) Bridge](https://wallet.polygon.technology/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on Polygon (Matic) using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.130074441.756683581.1650345653-1161789045.1649048909). ([Reference](https://docs.chain.link/docs/link-token-contracts/#polygon-matic))**
+
 - Payment amount: 0.01 LINK
 - Oracle address: 0xA96474C1A08374EFd0F3C9BC7153FDA7A6c8d9e1
 - LINK token address: 0xb0897686c545045afc77cf20ec7a532e3120e0f1
 - Job ID(Truflation): b04c2a85143c43089c1befe7c41dea93
-
-**Important**
-**The LINK provided by the [Polygon (Matic) Bridge](https://wallet.polygon.technology/bridge) is not ERC-677 compatible, so cannot be used with Chainlink oracles. However, it can be [converted to the official LINK token on Polygon (Matic) using Chainlink's PegSwap service](https://pegswap.chain.link/?_ga=2.130074441.756683581.1650345653-1161789045.1649048909)**
 
 ### Mumbai Testnet (Chain ID: 80001)
 
